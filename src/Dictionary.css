@@ -9,6 +9,10 @@
 .Dictionary h2 {
   text-align: center;
 }
+.suggestion {
+  font-size: 14px;
+  text-align: center;
+}
 a {
   color: black;
 }
