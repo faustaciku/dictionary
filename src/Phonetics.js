@@ -4,10 +4,9 @@ export default function Phonetics(props) {
   if (props.phonetic && props.phonetic.audio) {
     return (
       <div className="Phonetics">
-        <ReactAudioPlayer src={props.phonetic.audio} controls />
-
-        <br />
         {props.phonetic.text}
+        <br />
+        <ReactAudioPlayer src={props.phonetic.audio} controls />
       </div>
     );
   } else {

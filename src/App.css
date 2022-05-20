@@ -2,8 +2,8 @@
   padding-top: 10px;
   background-color: rgb(161, 161, 239);
   margin: 20px auto;
-  margin-left: 30px;
-  margin-right: 30px;
+  max-width: 80%;
+
   padding: 30px;
   border-radius: 30px;
 }
