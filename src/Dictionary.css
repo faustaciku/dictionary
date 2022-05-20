@@ -9,6 +9,9 @@
 .Dictionary h2 {
   text-align: center;
 }
+.Dictionary em {
+  color: rgb(168, 168, 168);
+}
 .suggestion {
   font-size: 14px;
   text-align: center;
@@ -28,4 +31,15 @@ a {
 }
 .Results h2 {
   font-size: 35px;
+}
+ul {
+  list-style: none;
+}
+li {
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 30px;
+  margin-left: 5px;
+  padding: 10px;
+  display: inline-block;
+  color: rgb(106, 106, 106);
 }

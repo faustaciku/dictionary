@@ -4,7 +4,7 @@ import Results from "./Results";
 import "./Dictionary.css";
 
 export default function Dictionary() {
-  let [keyword, setKeyword] = useState("baguette");
+  let [keyword, setKeyword] = useState("like");
   let [results, setResults] = useState(null);
   let [loaded, setLoaded] = useState(false);
   function handleResponse(response) {
