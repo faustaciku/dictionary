@@ -14,3 +14,6 @@
   font: bold 45px Helvetica, Arial, Sans-Serif;
   text-shadow: 1px 1px #a690ef, 2px 2px #0f02fe, 3px 3px #000000;
 }
+.App footer {
+  text-align: center;
+}

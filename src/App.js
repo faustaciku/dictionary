@@ -11,6 +11,11 @@ function App() {
         <main>
           <Dictionary />
         </main>
+        <footer>
+          This project was coded by Fausta Ciku and it is{" "}
+          <a href="https://github.com/faustaciku/dictionary">open-sourced</a> on
+          Github.
+        </footer>
       </div>
     </div>
   );
