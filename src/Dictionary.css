@@ -1,3 +1,28 @@
+@media (max-width: 550px) {
+  section {
+    margin: 8px !important;
+    padding: 15px !important;
+  }
+  section h2 {
+    font-size: 15px !important;
+  }
+  input {
+    width: 100px !important;
+    height: 10px;
+  }
+  .Results h2 {
+    font-size: 35px !important;
+    margin-bottom: -20px !important;
+  }
+  audio {
+    width: 120px !important;
+    height: 20px !important;
+  }
+  p,
+  li {
+    font-size: 13px !important;
+  }
+}
 .Dictionary section {
   background: white;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
